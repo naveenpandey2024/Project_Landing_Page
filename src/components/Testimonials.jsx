@@ -9,7 +9,7 @@ const TestimonialSlider = () => {
       id: 1,
       name: "Sarah Johnson",
       role: "CEO, Tech.",
-      image: "/public/images/image1.png",
+      image: "./images/image1.png",
       quote:
         "This platform has transformed how we manage our business operations. The intuitive interface and comprehensive features have made a significant impact on our productivity.",
     },
@@ -17,7 +17,7 @@ const TestimonialSlider = () => {
       id: 2,
       name: "Michael Chen",
       role: "Founder, Digital",
-      image: "/public/images/image.png",
+      image: "./images/image.png",
       quote:
         "The range of tools available has streamlined our workflow tremendously. It's been instrumental in scaling our business operations effectively.",
     },
@@ -25,7 +25,7 @@ const TestimonialSlider = () => {
       id: 3,
       name: "Jim Sheppard",
       role: "Visionary and Marketing CEO.",
-      image: "/public/images/Jim.png",
+      image: "./images/Jim.png",
       quote:
         "As a business owner, CEOITBOX has been a game-changer for me. Their range of websites covers everything I need—from productivity tools to data management. It's a one-stop shop for all my business needs!",
     },
@@ -33,7 +33,7 @@ const TestimonialSlider = () => {
       id: 4,
       name: "James Wilson",
       role: "CTO, Future",
-      image: "/public/images/image2.png",
+      image: "./images/image2.png",
       quote:
         "The comprehensive suite of features has exceeded our expectations. It's truly an all-in-one solution for modern businesses.",
     },
@@ -41,7 +41,7 @@ const TestimonialSlider = () => {
       id: 5,
       name: "Lisa Thompson",
       role: "Operations Manager",
-      image: "/public/images/image3.png",
+      image: "./images/image3.png",
       quote:
         "We've seen remarkable improvements in our team's efficiency since implementing this solution. The support team has been exceptional throughout.",
     },
